@@ -11,4 +11,5 @@ h1 {
 .second {
   color: red;
   font-size: 13px;
+  display: none;
 }
